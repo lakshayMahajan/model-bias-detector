@@ -16,3 +16,22 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+
+# Data files (except samples)
+*.csv
+!demo_perfect_dataset.csv
+!demo_salary_regression.csv
