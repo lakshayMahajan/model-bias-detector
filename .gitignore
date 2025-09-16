@@ -35,3 +35,13 @@ Thumbs.db
 *.csv
 !demo_perfect_dataset.csv
 !demo_salary_regression.csv
+
+# Export outputs
+analysis_report_*.json
+analysis_report_*.html
+analysis_report_*.pdf
+analysis_report_*.zip
+plots/
+
+# Streamlit
+.streamlit/
